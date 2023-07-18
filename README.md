@@ -16,6 +16,6 @@
   <sub>适用于 Linux，macOS，Windows 平台</sub>
 </div>
 <br>
-<h3 align="center">[安装地址（推荐）](https://github.com/juzizhen/FuckMissAvPop)</h3>
+<h3 align="center">[安装地址（推荐）](https://greasyfork.org/zh-CN/scripts/471092-关闭missav的弹出页面)</h3>
 <p align="center">(English)Automatically turn off video ad redirects for missav.com</p>
 <p align="center">(Chinese)去你妈的MissAv，老子好不容易看一次，你™还阻拦我，你是阻冲之啊，艹！</p>
